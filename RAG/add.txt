@@ -1,0 +1,4 @@
+chromadb
+sentence-transformers
+youtube_transcript_api
+gradio

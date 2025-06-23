@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+genAI
+env/
+.openvino-env/
+.openvenv/
+openvino-env/
+
+# Environment files
+*.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs
+*.log
+
+# Model weights, checkpoints, datasets
+*.ckpt
+*.pt
+*.pth
+*.h5
+*.onnx
+*.tflite
+*.bin
+*.pb
+*.npy
+models/
+checkpoints/
+outputs/
+runs/
+weights/
+
+# Hugging Face cache
+~/.cache/huggingface/
+huggingface/
+
+# LangChain caches/artifacts
+langchain.db
+*.jsonl
+*.json.tmp
+
+# Temporary or system files
+.DS_Store
+Thumbs.db
+
+# Ollama models (if stored locally)
+~/.ollama/

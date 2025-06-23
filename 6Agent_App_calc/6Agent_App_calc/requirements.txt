@@ -1,0 +1,13 @@
+6Agent_App_calc
+├── src
+│   ├── main.py
+│   ├── agents
+│   │   └── calculator_agent.py
+│   ├── chains
+│   │   └── calculator_chain.py
+│   ├── prompts
+│   │   └── calculator_prompt.py
+│   └── tools
+│       └── calculator_tool.py
+├── README.md
+└── requirements.txt

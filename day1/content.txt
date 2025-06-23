@@ -1,0 +1,9 @@
+1-> ml model with preprocessing
+
+2 -> activation functions and ANN
+
+3-> text preprocessing -> tokenize, stopword removal, converting to numbers
+
+4 -> word embeddings -> word to vec
+
+5 -> rnn with streamlit
